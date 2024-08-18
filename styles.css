@@ -1,0 +1,20 @@
+body {
+    margin: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.cardIcon {
+    width: 150px;
+}
+
+.card {
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    width: 400px;
+    margin: auto;
+    text-align: center;
+    background: #d8cefe;
+    border-bottom: 8px solid #ddebf8;
+    color: #2b2B39;
+}
